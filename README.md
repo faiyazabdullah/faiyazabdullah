@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Faiyaz Abdullah Sayeedi</h1>
-<h3 align="center">A Computer Science and Engineering student at United International University (UIU) with a stellar academic background, I've actively contributed to UIU as a Grader and Undergraduate Teaching Assistant. My passion lies in research, particularly in the realm of Machine Learning, Deep Learning, Computer Vision, and Human-Computer Interaction.</h3>
+<h3 align="center">A Computer Science and Engineering student at United International University (UIU) with a stellar academic background, I've actively contributed to UIU as a Grader and Undergraduate Teaching Assistant. My passion lies in research, particularly in the realm of Machine Learning, Deep Learning, Computer Vision, Large Language Model, and Human-Computer Interaction.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faiyazabdullah&label=Profile%20views&color=0e75b6&style=flat" alt="faiyazabdullah" /> </p>
 
