@@ -314,9 +314,12 @@ figure {
 	padding-right: 15px;
 }
 
-.post-category::after,
-.post-date::after,
-.post-author::after {
+.post-category,
+.post-date {
+	color: #000;
+}
+
+.post-category::after {
 	position: absolute;
 	content: '.';
 	color: #000;
@@ -748,6 +751,37 @@ figure {
 .social li a:hover {
 	background-color: #333;
 	color: #fff;
+}
+
+.pagination {
+	text-align: center;
+}
+
+.pagination li {
+	display: inline-block;
+}
+
+.pagination li a {
+	border: 1px solid #888;
+	color: #888;
+	transition: all 0.3s ease-in;
+}
+
+.pagination li a:hover {
+	background-color: #333;
+	color: #fff;
+}
+
+.pagination li.active a {
+	background-color: #333 !important;
+	color: #fff !important;
+	border-color: 1px solid #888 !important;
+}
+
+.pagination li.active {
+	background-color: #333 !important;
+	color: #fff !important;
+	border-color: 1px solid #888 !important;
 }
 
 .facebook a {
