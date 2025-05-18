@@ -628,6 +628,10 @@ figure {
 	text-decoration: underline;
 }
 
+.section-block {
+	margin-bottom: 30px;
+}
+
 /**
  * 7.0 - Header Search Bar
  */
