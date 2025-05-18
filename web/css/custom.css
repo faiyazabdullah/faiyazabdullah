@@ -600,6 +600,34 @@ figure {
 	color: #666;
 }
 
+.site-navigation .nav-list {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.site-navigation .nav-list li {
+	margin: 0 10px;
+}
+
+.site-navigation .nav-list li::before{
+	content: '↖';
+	font-family: "Ionicons";
+	margin-right: 10px;
+}
+
+.site-navigation .nav-list a {
+	text-decoration: none;
+	color: #333;
+}
+
+.site-navigation .nav-list a:hover {
+	text-decoration: underline;
+}
+
 /**
  * 7.0 - Header Search Bar
  */
